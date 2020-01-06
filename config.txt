@@ -1,0 +1,6 @@
+owner=562638950477594634
+prefix=1AE
+game=
+stayinchannel=true
+songinstatus=false
+token=NjYzNzM5Nzk1NDMxNzUxNjkx.XhM6HA.cePER_EhMr9MQwqeoxataTGP1vs
